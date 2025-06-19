@@ -31,27 +31,27 @@
 ```bash
 git clone https://github.com/Alfiasyah78/torlex.git
 cd torlex
-
+```
 
 2. Jadikan script executable:
 
 ```bash
 chmod +x torlex.sh
-
+```
 
 3. Jalankan Script
 
 ```bash
 ./torlex.sh
 
-
+```
 
 Contoh Penggunaan:
 
 ```bash
 tornet --interval 15 --count
 ##Mengganti IP public melalui TOR setiap 15 detik, sebanyak 5 kali
-
+```
 
 🧠 FAQ
 💬 Apakah aman digunakan?
@@ -61,7 +61,7 @@ Ya, script ini hanya mengonfigurasi Tor lokal dan memakai tool open-source Pytho
 Gunakan --count 0:
 ```bash
 tornet --interval 10 --count 0
-
+```
 
 👨‍💻 Kontributor
 al3x — GitHub
