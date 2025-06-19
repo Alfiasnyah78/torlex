@@ -45,6 +45,11 @@ chmod +x torlex.sh
 ./torlex.sh
 
 ```
+4. install depedensi python
+
+```bash
+pip3 install -r requirements.txt
+```
 
 Contoh Penggunaan:
 
