@@ -1,6 +1,6 @@
 # 🚀 Torlex Installer
 
-![Tor Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tor-logo-2011-flat.svg/320px-Tor-logo-2011-flat.svg.png)
+
 
 **Torlex Installer** adalah script Bash interaktif yang mengotomatisasi pemasangan dan konfigurasi `Tor` serta `tornet`, sebuah tool Python yang mengganti IP publik yang bisa diatur secara otomatis melalui jaringan Tor. contoh IP dalam beberapa detik bisa berganti 
 
